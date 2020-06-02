@@ -1,0 +1,11 @@
+header {
+    background: darkslategrey;
+    text-align: center;
+    border-radius: 50px 50px 0px 0px;
+    
+
+}
+header p {
+    font-size: 25px;
+    color: ivory;
+}
